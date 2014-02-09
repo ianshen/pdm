@@ -4,12 +4,12 @@
  */
 return array (
 	'Santa_Db_Pdo' => array (
-		'test' => array (
-			'host' => '10.10.209.61', 
+		'wallet' => array (
+			'host' => 'localhost', 
 			'port' => 3306, 
-			'database' => 'test', 
-			'user' => 'sms', 
-			'password' => 'sms', 
+			'database' => 'xiaodangjia', 
+			'user' => 'root', 
+			'password' => '', 
 			'charset' => 'UTF8', 
 			'persistent' => false, 
 			'options' => array () 
