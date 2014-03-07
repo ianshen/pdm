@@ -7,7 +7,7 @@ return array (
 		'wallet' => array (
 			'host' => 'localhost', 
 			'port' => 3306, 
-			'database' => 'xiaodangjia', 
+			'database' => 'wallet', 
 			'user' => 'root', 
 			'password' => '', 
 			'charset' => 'UTF8', 
